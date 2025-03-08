@@ -1,0 +1,11 @@
+# Title: MitBlocklist
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 07 March 2025
+#
+# ===============================================================
+
+
+0.0.0.0 youtube.com
